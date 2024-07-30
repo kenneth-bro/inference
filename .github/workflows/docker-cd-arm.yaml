@@ -1,4 +1,4 @@
-name: Xinference CD for DockerHub
+name: Xinference CD for Mine
 
 on:
   schedule:
